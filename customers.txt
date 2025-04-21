@@ -1,0 +1,4 @@
+101,jinu,1234567890,incomebuilder Plan,15000.0,25
+102,keet,1234567990,Guaranteed Plan,20000.0,18
+102,gunj,1234567990,incomebuilder Plan,20000.0,20
+101,jinay,1234567990,Guaranteed Plan,20000.0,25
